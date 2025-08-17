@@ -1,12 +1,55 @@
 {
 	"home": {
 		"title": "Featured products",
+		"subtitle": "Product list powered by Fake Store API.",
+		"featured": "Featured",
 		"goProducts": "Go to products",
 		"goCart": "Go to cart"
 	},
 	"products": {
 		"title": "Products",
 		"comingSoon": "Listing and filters are coming next."
+	},
+	"toolbar": {
+		"allCategories": "All Categories",
+		"sort": "Sort",
+		"priceAsc": "Price Asc",
+		"priceDesc": "Price Desc",
+		"min": "Min",
+		"max": "Max"
+	},
+	"nav": {
+		"products": "Products"
+	},
+	"cart": {
+		"title": "Cart",
+		"empty": "Your cart is empty.",
+		"remove": "Remove",
+		"total": "Total",
+		"clear": "Clear Cart"
+	},
+	"product": {
+		"addToCart": "Add to Cart",
+		"addedToCart": "Added to cart",
+		"backToProducts": "Back to Products",
+		"categoryLabel": "Category: {category}"
+	},
+	"errors": {
+		"list": "An error occurred while loading products.",
+		"detail": "An error occurred while loading product details.",
+		"notFound": "The product you are looking for was not found."
+	},
+	"productsData": {
+		"10": {
+			"title": "SanDisk SSD",
+			"description": "Easy upgrade for faster boot, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark Vantage scores). Boosts burst write performance, making it ideal for typical PC workloads. The perfect balance of performance and reliability. Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application)."
+		}
+	},
+	"footer": {
+		"tagline": "Bilingual (TR/EN), SEO and performance-focused demo storefront.",
+		"resources": "Resources",
+		"followUs": "Follow Us",
+		"madeWith": "Built with Next.js"
 	}
 }
 

@@ -1,12 +1,59 @@
 {
 	"home": {
 		"title": "Öne çıkan ürünler",
+		"subtitle": "Fake Store API verileriyle oluşturulmuş ürün listesi.",
+		"featured": "Öne Çıkanlar",
 		"goProducts": "Ürünlere git",
 		"goCart": "Sepete git"
 	},
 	"products": {
 		"title": "Ürünler",
 		"comingSoon": "Listeleme ve filtreler sırada."
+	},
+	"toolbar": {
+		"allCategories": "Tüm Kategoriler",
+		"sort": "Sıralama",
+		"priceAsc": "Fiyat Artan",
+		"priceDesc": "Fiyat Azalan",
+		"min": "Min",
+		"max": "Max"
+	},
+	"nav": {
+		"products": "Ürünler"
+	},
+	"cart": {
+		"title": "Sepet",
+		"empty": "Sepetiniz boş.",
+		"remove": "Kaldır",
+		"total": "Toplam",
+		"clear": "Sepeti Temizle"
+	},
+	"product": {
+		"addToCart": "Sepete Ekle",
+		"addedToCart": "Sepete eklendi",
+		"backToProducts": "Ürünlere Dön",
+		"categoryLabel": "Kategori: {category}"
+	},
+	"errors": {
+		"list": "Ürünler yüklenirken bir hata oluştu.",
+		"detail": "Ürün detayları yüklenirken bir hata oluştu.",
+		"notFound": "Aradığınız ürün bulunamadı."
+	},
+	"footer": {
+		"tagline": "TR/EN çok dilli, SEO ve performans odaklı demo mağaza arayüzü.",
+		"resources": "Kaynaklar",
+		"followUs": "Bizi Takip Et",
+		"madeWith": "Next.js ile geliştirildi"
+	},
+	"productsData": {
+		"2": {
+			"title": "Erkek Günlük Premium Slim Fit T‑Shirt",
+			"description": "Dar kalıp stil, kontrast raglan uzun kol, üç düğmeli henley yaka; nefes alabilir ve rahat kullanım için hafif ve yumuşak kumaş. Dayanıklılık ve günlük şık kullanım için yuvarlak yaka dikişli tasarım. Henley tarzı yuvarlak yaka üç düğmeli pat ile tamamlanmıştır."
+		},
+		"10": {
+			"title": "SanDisk SSD",
+			"description": "Kolay yükseltme: daha hızlı açılış, kapanış, uygulama yükleme ve yanıt için. (5400 RPM SATA 2.5” sabit diskle karşılaştırılmıştır; yayınlanan teknik özellikler ve PCMark Vantage puanlarıyla yapılan dahili kıyaslamalara dayalıdır.) Ani/yüksek yoğunluklu yazma performansını artırır; bu da onu tipik PC iş yükleri için ideal kılar. Performans ve güvenilirliğin mükemmel dengesini sunar. Okuma/yazma hızları en fazla 535 MB/sn / 450 MB/sn’ye kadar. (Dahili testlere dayalıdır; performans, sürücü kapasitesi, ana cihaz, işletim sistemi ve uygulamaya bağlı olarak değişebilir.)"
+		}
 	}
 }
 
