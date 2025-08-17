@@ -1,0 +1,13 @@
+{
+	"home": {
+		"title": "Öne çıkan ürünler",
+		"goProducts": "Ürünlere git",
+		"goCart": "Sepete git"
+	},
+	"products": {
+		"title": "Ürünler",
+		"comingSoon": "Listeleme ve filtreler sırada."
+	}
+}
+
+

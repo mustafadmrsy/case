@@ -1,0 +1,13 @@
+{
+	"home": {
+		"title": "Featured products",
+		"goProducts": "Go to products",
+		"goCart": "Go to cart"
+	},
+	"products": {
+		"title": "Products",
+		"comingSoon": "Listing and filters are coming next."
+	}
+}
+
+
