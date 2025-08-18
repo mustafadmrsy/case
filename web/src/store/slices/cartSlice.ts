@@ -20,6 +20,9 @@ const cartSlice = createSlice({
 	name: "cart",
 	initialState,
 	reducers: {
+		rehydrate(state, action: PayloadAction<CartItem[] | undefined>) {
+			if (Array.isArray(action.payload)) state.items = action.payload;
+		},
 		addToCart(state, action: PayloadAction<Omit<CartItem, "quantity">>) {
 			const existing = state.items.find((i) => i.id === action.payload.id);
 			if (existing) existing.quantity += 1;
